@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bedirhangk
-- 👀 I’m interested in Fullstack Devoloper and cybersecurity
-- 🌱 I’m currently learning React :( <!--💞️ I’m looking to collaborate on ...-->
-- 📫 How to reach me bedirhangk12@gmail.com
+- 👀 I’m interested in Fullstack Devoloper and cybersecurity 
+- 📫 How to reach me business@bedirhangokkaya.com.tr
 
 <!---
 Bedirhangk/Bedirhangk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
